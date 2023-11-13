@@ -1,0 +1,111 @@
+body{
+    font-family: ’Onest’, sans-serif;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.home{
+    background-color: black;
+    color: white;
+}
+
+h1,h2{
+    text-align: center;
+}
+h1{
+    font-size: 150px;
+    margin-top: 300px;
+    font-weight: 400;
+}
+h2{
+    font-weight: 100;
+}
+header{
+    width: 20px;
+    height: 20px;
+}
+.grid{
+    justify-items: center;
+    display: grid;
+    grid-template-columns: repeat(4, 300px);
+    justify-content: center;
+    padding: 100px;
+    gap: 10px;
+}
+p{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.grid-4{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: center;
+    justify-items: center;
+}
+
+.images-larges{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.grid-triptyque{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    justify-content: center;
+    justify-items: center;
+    margin: 50px;
+    gap: 10px;
+}
+
+.grid-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    justify-content: center;
+    justify-items: center;
+    gap: 10px;
+
+
+}
+.site{
+
+}
+.grid-tourangelle{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    justify-content: center;
+    justify-items: center;
+    margin: 50px;
+    gap: 50px;
+
+}
+.text{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.recherche{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    gap: 100%;
+}
+.grid-sceno{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    justify-content: center;
+    justify-items: center;
+    margin: 50px;
+    gap: 10px;
+}
+.lou{
+    text-align: center;
+    width: 30%;
+    height: 30%;
+    
+    justify-content: center;
+    justify-items: center;
+}
