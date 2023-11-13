@@ -1,3 +1,3 @@
-# https://anaisbozon.github.io/index.html
+# https://anaisbozon.github.io/
 
 
